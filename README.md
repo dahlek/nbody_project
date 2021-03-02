@@ -1,1 +1,2 @@
-# nbody_project
+Fortran 95 code from a class project
+
